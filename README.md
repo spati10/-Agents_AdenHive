@@ -1,4 +1,4 @@
-# 🤖 AI Agents Built with Aden Hive Framework
+# AI Agents Built with Aden Hive Framework
 
 AI agents built using [Aden Hive](https://github.com/aden-hive/hive) — a production-grade, outcome-driven agent development framework backed by Y Combinator (8.5k+ GitHub stars).
 
