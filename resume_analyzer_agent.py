@@ -1,12 +1,3 @@
-"""
-Resume Analyzer Agent
-----------------------
-An agent that analyzes resume text and provides feedback.
-
-Run with:
-    uv run python core/examples/resume_analyzer_agent.py
-"""
-
 import asyncio
 
 from framework.graph import EdgeCondition, EdgeSpec, Goal, GraphSpec, NodeSpec
